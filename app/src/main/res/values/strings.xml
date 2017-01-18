@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifier</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">AggregateActivity</string>
+    <string name="marksobtained">Enter the total marks obtained</string>
+    <string name="title_activity_notice">NoticeActivity</string>
+</resources>
