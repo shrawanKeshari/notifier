@@ -11,7 +11,7 @@ public class HttpManager {
     public static String getData(String uri) {
         try {
             Document doc = Jsoup.connect(uri).get();
-            Element element = doc.getElementById("noticedesk");
+            Element element = doc.getElementById("p7VSCb_2");
             Elements input_element = element.getElementsByTag("a");
 
             StringBuilder sb = new StringBuilder();
